@@ -1,0 +1,15 @@
+
+Trends I noticed are as follows:
+
+1. The scatter plot indicates the average fare is higher for "rural" cities than suburban and urban, and the average fare for "suburban" cities is higher than 
+that for "urban". This makes rational sense because rural rides may be much longer (distance-wise and time-wise). These riders could be visting cities from their
+rural locations. Similarly "suburban" rides also might be longer than "urban" rides but less so than "rural." On the other hand "urban" rides may be several in 
+number but shorter in distance. 
+
+2. We see that 2.6 percent of the total drivers are  made 6.8 percent of the Total fares. Similarly, 2.6 percent of the total drivers (rural) accounted 
+for 5.3 percent of the total rides. On the surface, this is somewhat surprising and counter-intuitive. It is possible that a sizeable number of people
+in the rural areas do not have cars or need to take long trips. This explains the disproportionate portion of the "Total Fares" and "Total Rides".
+
+3. Total rides for "urban" cities are much higher than the other two types. This is reasonable because the trend these days is for people to opt for the 
+convenience of taking Uber rather than own a car, especially among younger people.
+
